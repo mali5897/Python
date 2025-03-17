@@ -1,1 +1,2 @@
 these are some python coding exercises i have worked on. 
+If you have python installed on your computer you can use these apps i've made such as calculating your investments, a mock psych therapy session application, and some simple math calculation applications. There are some updates I have made to some applications to have a GUI interface. You have to have version 3.11.0 atleast to have the code run on your computer. 
